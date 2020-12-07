@@ -1,5 +1,5 @@
 
-<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞, I am Dibyendu !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞, I am Dibyendu `(DB)` !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
 [![Linkedin](https://img.shields.io/badge/-Dibyendu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/dibyendu-biswas-827155193/)](https://www.linkedin.com/in/dibyendu-biswas-827155193/)
@@ -22,6 +22,33 @@ I contribute to Open Source whenever I get the time.
 <code><img height="40" src=https://toppng.com/uploads/preview/arduino-logo-11563227354ny21akychx.png></code>
 <code><img height="40" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png"></code>
 <code><img height="40" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
+
+## More About me
+```cpp
+// FUNCTION_BLOCK DB
+// Technology part
+typedef struct {
+
+  __DECLARE_VAR(BOOL, Embedded C/C++);
+  __DECLARE_VAR(BOOL, Internet Of Things);
+  __DECLARE_VAR(BOOL, Competitive Programming);
+  __DECLARE_VAR(BOOL, Artifical Intelligence);
+
+  // Open Source Enthusiast
+
+} DB;
+
+// Things that I do apart from coding
+
+static void DB_init__(DB *data__, BOOL Interests) {
+  __INIT_VAR(data__-> ROPE SKIPPING,Interests);
+  __INIT_VAR(data__-> CALISTHENICS,Interests);
+  __INIT_VAR(data__-> FOOTBALL,Interests);
+  __INIT_VAR(data__-> Painting,Interests);
+  __INIT_VAR(data__-> Calligraphy,Interests);
+  __INIT_VAR(data__-> Sketching,Interests);
+   __INIT_VAR(data__-> Tabla,Interests);
+}
 
 
 
