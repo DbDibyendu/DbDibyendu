@@ -1,5 +1,5 @@
 
-<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞, I am Dibyendu `(DB)` !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞, I am Dibyendu (DB) !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 
 [![Linkedin](https://img.shields.io/badge/-Dibyendu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/dibyendu-biswas-827155193/)](https://www.linkedin.com/in/dibyendu-biswas-827155193/)
