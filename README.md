@@ -6,13 +6,13 @@
 
 <img align='right'  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
-## About me 
+### About me 
 
 :computer:  Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding.    
 I contribute to Open Source whenever I get the time.
 
 
-## Languages and Tools
+### Languages and Tools
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
@@ -26,7 +26,7 @@ I contribute to Open Source whenever I get the time.
 <code><img height="40" src="https://www.pngitem.com/pimgs/m/20-200760_opencv-logo-png-transparent-png.png"></code>
 
             
-## More About me
+### More About me
 ```cpp
 // FUNCTION_BLOCK DB
 // Technology part
@@ -56,7 +56,7 @@ static void DB_init__(DB *data__, BOOL Interests) {
 ```
 
 
-📈 My GitHub Stats
+### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=DbDibyendu&show_icons=true&theme=gotham"  alt="Dibyendu" />
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=DbDibyendu&show_icons=true&theme=gotham" alt="Dibyendu" />
