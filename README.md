@@ -6,11 +6,14 @@
 
 <img align='right'  src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="500" height="400">
 
+<hr>
+
 ### About me 
 
 :computer:  Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding.    
-I contribute to Open Source whenever I get the time.
-
+I contribute to Open Source whenever I get the time.            
+ My [Resume]()
+<hr>
 
 ### Languages and Tools
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -25,7 +28,8 @@ I contribute to Open Source whenever I get the time.
 <code><img height="40" src="https://gnss-sdr.org/assets/images/Cmake-logo.png"></code>
 <code><img height="40" src="https://www.pngitem.com/pimgs/m/20-200760_opencv-logo-png-transparent-png.png"></code>
 
-            
+<hr>
+
 ### More About me
 ```cpp
 // FUNCTION_BLOCK DB
@@ -55,14 +59,17 @@ static void DB_init__(DB *data__, BOOL Interests) {
 }
 ```
 
+<hr>
 
 ### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=DbDibyendu&show_icons=true&theme=gotham"  alt="Dibyendu" />
 <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=DbDibyendu&show_icons=true&theme=gotham" alt="Dibyendu" />
-                                                                                                                               
-##### Connect me on 
-<a href="mailto:shreyasishruti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbdibyendu5@gmail.com" alt="Gmail"></a>
-<a href="https://www.linkedin.com/in/dibyendu-biswas-827155193/"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-<a href="https://www.instagram.com/___dibi___/"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=flat-square&logo=instagram&logoColor=white" alt="Instagram"></a>
-<a href="https://www.facebook.com/dibyendu.biswas.121/"><img src="https://img.shields.io/badge/Facebook-%231877F2.svg?&style=flat-square&logo=facebook&logoColor=white" alt="Facebook"></a></div>
+
+<hr>
+
+## :two_men_holding_hands: Connect me on 
+<a href="https://www.linkedin.com/in/dibyendu-biswas-827155193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://www.facebook.com/dibyendu.biswas.121/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
+<a href="https://www.instagram.com/___dibi___/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
+<a href="https://github.com/DbDibyendu"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
