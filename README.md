@@ -8,7 +8,7 @@
 
 ## About me 
 
-:computer:  Pursuing ECE at IIT Kharagpur. I am an AI and Internet Of Things enthusiast and try my hands regularly on competitive coding.    
+:computer:  Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding.    
 I contribute to Open Source whenever I get the time.
 
 
