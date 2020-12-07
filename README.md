@@ -22,7 +22,8 @@ I contribute to Open Source whenever I get the time.
 <code><img height="40" src=https://toppng.com/uploads/preview/arduino-logo-11563227354ny21akychx.png></code>
 <code><img height="40" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png"></code>
 <code><img height="40" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
-
+<code><img height="40" src="https://www.droptica.com/sites/droptica.com/files/2018-08/docker_codeception-07.jpg"></code>
+<code><img height="40" src="https://gnss-sdr.org/assets/images/Cmake-logo.png"></code>
 
 
             
