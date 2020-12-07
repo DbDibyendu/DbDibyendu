@@ -9,7 +9,7 @@
 
 ## About me 
 
-:computer:  I'm a second year student ECE at IIT Kharagpur. I am an AI and Internet Of Things enthusiast and try my hands regularly on competitive coding.    
+:computer:  Pursuing ECE at IIT Kharagpur. I am an AI and Internet Of Things enthusiast and try my hands regularly on competitive coding.    
 I contribute to Open Source whenever I get the time.
 
 
