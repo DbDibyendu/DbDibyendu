@@ -41,13 +41,13 @@ typedef struct {
 // Things that I do apart from coding
 
 static void DB_init__(DB *data__, BOOL Interests) {
-  __INIT_VAR(data__-> ROPE SKIPPING,Interests);
-  __INIT_VAR(data__-> CALISTHENICS,Interests);
-  __INIT_VAR(data__-> FOOTBALL,Interests);
-  __INIT_VAR(data__-> Painting,Interests);
-  __INIT_VAR(data__-> Calligraphy,Interests);
-  __INIT_VAR(data__-> Sketching,Interests);
-   __INIT_VAR(data__-> Tabla,Interests);
+  __INIT_VAR(data__-> ROPE SKIPPING , Interests);
+  __INIT_VAR(data__-> CALISTHENICS , Interests);
+  __INIT_VAR(data__-> FOOTBALL , Interests);
+  __INIT_VAR(data__-> Painting , Interests);
+  __INIT_VAR(data__-> Calligraphy , Interests);
+  __INIT_VAR(data__-> Sketching , Interests);
+  __INIT_VAR(data__-> Tabla , Interests);
 }
 ```
 
