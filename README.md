@@ -23,7 +23,7 @@ I contribute to Open Source whenever I get the time.
 <code><img height="40" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
 <code><img height="40" src="https://www.droptica.com/sites/droptica.com/files/2018-08/docker_codeception-07.jpg"></code>
 <code><img height="40" src="https://gnss-sdr.org/assets/images/Cmake-logo.png"></code>
-
+<code><img height="40" src="https://www.pngitem.com/pimgs/m/20-200760_opencv-logo-png-transparent-png.png"></code>
 
             
 ## More About me
