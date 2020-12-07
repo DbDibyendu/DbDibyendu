@@ -9,10 +9,9 @@
 <hr>
 
 ### About me 
-
-:computer:  Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding.    
-I contribute to Open Source whenever I get the time.            
- My [Resume](https://github.com/DbDibyendu/DbDibyendu/blob/main/Dibyendu_Resume.pdf)
+- Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding.    
+- I contribute to Open Source whenever I get the time.            
+- My [Resume](https://github.com/DbDibyendu/DbDibyendu/blob/main/Dibyendu_Resume.pdf)
 <hr>
 
 ### Languages and Tools
