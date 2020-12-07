@@ -47,6 +47,7 @@ static void DB_init__(DB *data__, BOOL Interests) {
   __INIT_VAR(data__-> ROPE SKIPPING , Interests);
   __INIT_VAR(data__-> CALISTHENICS , Interests);
   __INIT_VAR(data__-> FOOTBALL , Interests);
+  __INIT_VAR(data__-> ADVENTURE , Interests);
   __INIT_VAR(data__-> Painting , Interests);
   __INIT_VAR(data__-> Calligraphy , Interests);
   __INIT_VAR(data__-> Sketching , Interests);
