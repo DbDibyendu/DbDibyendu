@@ -1,5 +1,5 @@
 <code><img align = 'right' height="60" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/1200px-IIT_Kharagpur_Logo.svg.png"></code>
-<h2> 𝐇i 𝐭𝐡𝐞𝐫𝐞, I am Dibyendu Biswas !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<h2> Hi there, I am Dibyendu Biswas !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
 
 [![Linkedin](https://img.shields.io/badge/-Dibyendu-blue?style=flat-square&logo=linkedin&logoColor=white&link=https:https://www.linkedin.com/in/dibyendu-biswas-827155193/)](https://www.linkedin.com/in/dibyendu-biswas-827155193/)
 [![Mail](https://img.shields.io/badge/-dbdibyendu5@gmail.com-gray?style=flat-square&logo=gmail&logoColor=red&link=)](mailto:dbdibyendu5@gmail.com)
