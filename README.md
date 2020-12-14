@@ -9,7 +9,8 @@
 <hr>
 
 ### About me 
-- Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding.               
+- Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding. 
+- Checkout My website [here](https://dbdibyendu.github.io/MyWebsite/)
 - My [Resume](https://github.com/DbDibyendu/DbDibyendu/blob/main/Dibyendu_Resume.pdf)
 <hr>
 
