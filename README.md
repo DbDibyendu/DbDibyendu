@@ -63,7 +63,7 @@ static void DB_init__(DB *data__, BOOL Interests) {
 ### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=DbDibyendu&show_icons=true&theme=gotham"  alt="Dibyendu" />
-<img src=https://github-readme-stats.vercel.app/api/top-langs/?username=DbDibyendu&show_icons=true&theme=gotham" alt="Dibyendu" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DbDibyendu&show_icons=true&theme=gotham" alt="Dibyendu" />
 
 <hr>
 
