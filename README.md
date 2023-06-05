@@ -10,6 +10,10 @@
 - Checkout My website [here](https://dbdibyendu.github.io/MyWebsite/)
 
 ### Languages and Tools
+<code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
+<code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
 <code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
