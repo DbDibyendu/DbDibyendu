@@ -11,8 +11,6 @@
 ### About me 
 - Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding. 
 - Checkout My website [here](https://dbdibyendu.github.io/MyWebsite/)
-- My [Resume](https://github.com/DbDibyendu/DbDibyendu/blob/main/Dibyendu_Resume.pdf)
-<hr>
 
 ### Languages and Tools
 <code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
@@ -48,12 +46,12 @@ typedef struct {
 
 static void DB_init__(DB *data__, BOOL Interests) {
   __INIT_VAR(data__-> ROPE SKIPPING , Interests);
-  __INIT_VAR(data__-> CALISTHENICS , Interests);
+  __INIT_VAR(data__-> Weightlifting , Interests);
   __INIT_VAR(data__-> FOOTBALL , Interests);
   __INIT_VAR(data__-> ADVENTURE , Interests);
   __INIT_VAR(data__-> Painting , Interests);
   __INIT_VAR(data__-> Calligraphy , Interests);
-  __INIT_VAR(data__-> Sketching , Interests);
+  __INIT_VAR(data__-> Wall Art , Interests);
   __INIT_VAR(data__-> Tabla , Interests);
 }
 ```
@@ -63,8 +61,6 @@ static void DB_init__(DB *data__, BOOL Interests) {
 ### 📈 My GitHub Stats
 
 <img src="https://github-readme-stats.vercel.app/api?username=DbDibyendu&show_icons=true&theme=gotham"  alt="Dibyendu" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DbDibyendu&show_icons=true&theme=gotham&langs_count=20" alt="Dibyendu" />
-<hr>
 
 ## :two_men_holding_hands: Connect me on 
 <a href="https://www.linkedin.com/in/dibyendu-biswas-827155193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
