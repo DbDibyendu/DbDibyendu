@@ -6,7 +6,7 @@
 <hr>
 
 ### About me 
-- Pursuing ECE at IIT Kharagpur with an interest in Compilers, C/C++, IoT, Embedded Systems and Programming language design and try my hands regularly on competitive coding. 
+- Passionate about exploring diverse fields and keeping my options open for the future. Currently exploring the exciting world of software engineering while nurturing a keen interest in trading and finance. A fitness enthusiast, constantly seeking new challenges and opportunities for personal growth. Open to new experiences and eager to expand my horizons. Let's connect and explore together!
 - Checkout My website [here](https://dbdibyendu.github.io/MyWebsite/)
 
 ### Languages and Tools
@@ -30,10 +30,10 @@
 // Technology part
 typedef struct {
 
-  __DECLARE_VAR(BOOL, Embedded C/C++);
-  __DECLARE_VAR(BOOL, Internet Of Things);
-  __DECLARE_VAR(BOOL, Competitive Programming);
-  __DECLARE_VAR(BOOL, Artifical Intelligence);
+  __DECLARE_VAR(BOOL, Software Engineering);
+  __DECLARE_VAR(BOOL, Trading & Investing);
+  __DECLARE_VAR(BOOL, UI/UX Designing);
+  __DECLARE_VAR(BOOL, Product Development);
 
   // Open Source Enthusiast
 
