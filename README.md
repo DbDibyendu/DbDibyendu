@@ -6,8 +6,44 @@
 <hr>
 
 ### About me 
-- Passionate about exploring diverse fields and keeping my options open for the future. Currently exploring the exciting world of software engineering while nurturing a keen interest in trading and finance. A fitness enthusiast, constantly seeking new challenges and opportunities for personal growth. Open to new experiences and eager to expand my horizons. Let's connect and explore together!
-- Checkout My website [here](https://dbdibyendu.github.io/MyWebsite/)
+I'm Dibyendu Biswas, currently working at JioHotstar. I'm passionate about building scalable web products, optimizing user experiences, and solving complex problems—whether it's in production code or on a Leetcode grid. <br />
+💡 Always eager to learn, explore new technologies, and contribute to impactful projects.
+
+### More About me
+```cpp
+// FUNCTION_BLOCK DB
+// Technology part
+typedef struct {
+
+  __DECLARE_VAR(BOOL, Fullstack Development);
+  __DECLARE_VAR(BOOL, System Design);
+  __DECLARE_VAR(BOOL, Data Structures and Algorithms);
+  __DECLARE_VAR(BOOL, Performance Optimisations);
+  __DECLARE_VAR(BOOL, UI/UX Designing);
+  __DECLARE_VAR(BOOL, Product Development);
+
+} DB;
+
+// Things that I do apart from coding
+
+static void DB_init__(DB *data__, BOOL Interests) {
+  __INIT_VAR(data__-> ROPE SKIPPING , Interests);
+  __INIT_VAR(data__-> Weightlifting , Interests);
+  __INIT_VAR(data__-> FOOTBALL , Interests);
+  __INIT_VAR(data__-> ADVENTURE , Interests);
+  __INIT_VAR(data__-> Bike Riding , Interests);
+  __INIT_VAR(data__-> Calligraphy , Interests);
+  __INIT_VAR(data__-> Wall Art , Interests);
+  __INIT_VAR(data__-> Tabla , Interests);
+}
+```
+
+
+<hr>
+
+Let's connect and collaborate!
+- Checkout My website [here](https://dbdibyendu.netlify.app)
+- [Old website](https://dbdibyendu.github.io/MyWebsite/)
 
 ### Languages and Tools
 <code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
@@ -26,36 +62,7 @@
 <code><img height="40" src="https://gnss-sdr.org/assets/images/Cmake-logo.png"></code>
 <code><img height="40" src="https://www.pngitem.com/pimgs/m/20-200760_opencv-logo-png-transparent-png.png"></code>
 
-<hr>
 
-### More About me
-```cpp
-// FUNCTION_BLOCK DB
-// Technology part
-typedef struct {
-
-  __DECLARE_VAR(BOOL, Software Engineering);
-  __DECLARE_VAR(BOOL, Trading & Investing);
-  __DECLARE_VAR(BOOL, UI/UX Designing);
-  __DECLARE_VAR(BOOL, Product Development);
-
-  // Open Source Enthusiast
-
-} DB;
-
-// Things that I do apart from coding
-
-static void DB_init__(DB *data__, BOOL Interests) {
-  __INIT_VAR(data__-> ROPE SKIPPING , Interests);
-  __INIT_VAR(data__-> Weightlifting , Interests);
-  __INIT_VAR(data__-> FOOTBALL , Interests);
-  __INIT_VAR(data__-> ADVENTURE , Interests);
-  __INIT_VAR(data__-> Painting , Interests);
-  __INIT_VAR(data__-> Calligraphy , Interests);
-  __INIT_VAR(data__-> Wall Art , Interests);
-  __INIT_VAR(data__-> Tabla , Interests);
-}
-```
 
 <hr>
 
