@@ -1,76 +1,48 @@
-<code><img align = 'right' height="60" src="https://upload.wikimedia.org/wikipedia/en/thumb/1/1c/IIT_Kharagpur_Logo.svg/1200px-IIT_Kharagpur_Logo.svg.png"></code>
-<h2> Hi there, I am Dibyendu Biswas !! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"></h2>
+<!-- Profile Header -->
+<h1 align="center">Hi there, I'm Dibyendu Biswas 👋</h1>
+<p align="center">
+  <a href="https://dbdibyendu.netlify.app">🌐 Portfolio</a> •
+  <a href="https://www.linkedin.com/in/dibi07">💼 LinkedIn</a> •
+  <a href="mailto:dbdibyendu5@gmail.com">📧 Email</a>
+</p>
 
+---
 
-<hr>
+### 🧑‍💻 About Me
 
-### About me 
-I'm Dibyendu Biswas, currently working at JioHotstar. I'm passionate about building scalable web products, optimizing user experiences, and solving complex problems—whether it's in production code or on a Leetcode grid. <br />
-💡 Always eager to learn, explore new technologies, and contribute to impactful projects.
+🎓 **IIT Kharagpur '23 Graduate**  
+💼 **Software Engineer at JioHotstar**  
+📍 **Based in Kolkata, India**  
 
-### More About me
-```cpp
-// FUNCTION_BLOCK DB
-// Technology part
-typedef struct {
+I'm passionate about building scalable web applications, enhancing user experiences, and solving complex problems. Whether it's optimizing production code or tackling challenges on LeetCode, I thrive on continuous learning and innovation.
 
-  __DECLARE_VAR(BOOL, Fullstack Development);
-  __DECLARE_VAR(BOOL, System Design);
-  __DECLARE_VAR(BOOL, Data Structures and Algorithms);
-  __DECLARE_VAR(BOOL, Performance Optimisations);
-  __DECLARE_VAR(BOOL, UI/UX Designing);
-  __DECLARE_VAR(BOOL, Product Development);
+---
 
-} DB;
+### 🛠️ Technologies & Tools
 
-// Things that I do apart from coding
+![C++](https://img.shields.io/badge/-C++-00599C?style=flat&logo=c%2B%2B&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![React](https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Git](https://img.shields.io/badge/-Git-F05032?style=flat&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
-static void DB_init__(DB *data__, BOOL Interests) {
-  __INIT_VAR(data__-> ROPE SKIPPING , Interests);
-  __INIT_VAR(data__-> Weightlifting , Interests);
-  __INIT_VAR(data__-> FOOTBALL , Interests);
-  __INIT_VAR(data__-> ADVENTURE , Interests);
-  __INIT_VAR(data__-> Bike Riding , Interests);
-  __INIT_VAR(data__-> Calligraphy , Interests);
-  __INIT_VAR(data__-> Wall Art , Interests);
-  __INIT_VAR(data__-> Tabla , Interests);
-}
-```
+---
 
+### 📈 GitHub Stats
 
-<hr>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DbDibyendu&show_icons=true&theme=radical" alt="Dibyendu's GitHub Stats" />
+</p>
 
-Let's connect and collaborate!
-- Checkout My website [here](https://dbdibyendu.netlify.app)
-- [Old website](https://dbdibyendu.github.io/MyWebsite/)
+---
 
-### Languages and Tools
-<code><img height="40" src="https://www.vectorlogo.zone/logos/reactjs/reactjs-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/nodejs/nodejs-horizontal.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/javascript/javascript-icon.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/python/python-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/github/github-ar21.svg"></code>
-<code><img height="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg"></code>
-<code><img height="40" src="https://upload.wikimedia.org/wikipedia/commons/archive/3/35/20190417225046%21The_C_Programming_Language_logo.svg"></code>
-<code><img height="40" src=https://toppng.com/uploads/preview/arduino-logo-11563227354ny21akychx.png></code>
-<code><img height="40" src="https://www.raspberrypi.org/wp-content/uploads/2011/10/Raspi-PGB001.png"></code>
-<code><img height="40" src=" https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Tux.svg/1200px-Tux.svg.png"></code>
-<code><img height="40" src="https://www.droptica.com/sites/droptica.com/files/2018-08/docker_codeception-07.jpg"></code>
-<code><img height="40" src="https://gnss-sdr.org/assets/images/Cmake-logo.png"></code>
-<code><img height="40" src="https://www.pngitem.com/pimgs/m/20-200760_opencv-logo-png-transparent-png.png"></code>
+### 📫 Let's Connect
 
+I'm always open to discussing new projects, creative ideas, or opportunities to collaborate. Feel free to reach out through any of the platforms below:
 
+- 📧 Email: [dbdibyendu5@gmail.com](mailto:dbdibyendu5@gmail.com)
+- 💼 LinkedIn: [linkedin.com/in/dibi07](https://www.linkedin.com/in/dibi07)
+- 🌐 Portfolio: [dbdibyendu.netlify.app](https://dbdibyendu.netlify.app)
 
-<hr>
-
-### 📈 My GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=DbDibyendu&show_icons=true&theme=gotham"  alt="Dibyendu" />
-
-## :two_men_holding_hands: Connect me on 
-<a href="https://www.linkedin.com/in/dibyendu-biswas-827155193/"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"></a>
-<a href="https://www.facebook.com/dibyendu.biswas.121/"><img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white"></a>
-<a href="https://www.instagram.com/___dibi___/"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"></a>
-<a href="https://github.com/DbDibyendu"><img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white"></a>
